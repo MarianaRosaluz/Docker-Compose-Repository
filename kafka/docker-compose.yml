@@ -38,8 +38,8 @@ services:
     depends_on:
       - kafka1
 
-#Sobre o Zookeeper: https://dattell.com/data-architecture-blog/what-is-zookeeper-how-does-it-support-kafka/
+#Sobre o Zookeeper -> https://dattell.com/data-architecture-blog/what-is-zookeeper-how-does-it-support-kafka/
 #Detalhes das variáveis de ambiente:
-#Zookeper: https://hub.docker.com/_/zookeeper
-#Kafka: https://docs.confluent.io/platform/current/kafka/multi-node.html
-#Kafdrop: https://github.com/obsidiandynamics/kafdrop
+#Zookeper ->  https://hub.docker.com/_/zookeeper
+#Kafka: -> https://docs.confluent.io/platform/current/kafka/multi-node.html
+#Kafdrop ->  https://github.com/obsidiandynamics/kafdrop
