@@ -42,4 +42,4 @@ services:
 #Detalhes das variáveis de ambiente:
 #Zookeper ->  https://hub.docker.com/_/zookeeper
 #Kafka: -> https://docs.confluent.io/platform/current/kafka/multi-node.html
-#Kafdrop ->  https://github.com/obsidiandynamics/kafdrop
+#Kafdrop =  https://github.com/obsidiandynamics/kafdrop
